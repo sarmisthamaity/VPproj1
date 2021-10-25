@@ -67,4 +67,7 @@ const registration = async (req, res) => {
     };
 };
 
+console.log("sarmistha");
+
+
 module.exports = { registration };

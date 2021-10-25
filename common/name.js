@@ -10,6 +10,6 @@ const nameValidation = (username) => {
     }else{
         return "invalid"
     }
-};
+};  
 
 module.exports = {nameValidation};
